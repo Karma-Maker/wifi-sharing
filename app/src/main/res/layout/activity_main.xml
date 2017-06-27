@@ -8,4 +8,10 @@
     android:padding="@dimen/margin_16"
     android:background="@color/lightBlue500">
 
+    <Button
+        android:id="@+id/disconnectBtn"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="DISCONNECT"/>
+
 </RelativeLayout>
